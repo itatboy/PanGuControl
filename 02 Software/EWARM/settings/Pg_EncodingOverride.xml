@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<userOverrides>
+    <override>
+        <path>C:\Users\13564\Desktop\Pg_20201110\App\Src\gui.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>C:\Users\13564\Desktop\Pg_20201110\App\Src\menu.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>C:\Users\One\Desktop\Pg_20201110\App\Src\menu.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>C:\Users\Vm\Desktop\PanGu\02 Software\App\Inc\api.h</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>C:\Users\Vm\Desktop\PanGu\02 Software\App\Inc\menu.h</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>C:\Users\Vm\Desktop\PanGu\02 Software\App\Src\menu.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>C:\Users\Vm\Desktop\PanGu\02 Software\Core\Inc\main.h</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>C:\Users\Vm\Desktop\PanGu\02 Software\Core\Inc\nrf24l01.h</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>C:\Users\Vm\Desktop\PanGu\02 Software\Core\Src\nrf24l01.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>C:\Users\Vm\Desktop\PanGu\pan-gu-control\App\Inc\button.h</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>C:\Users\Vm\Desktop\PanGu\pan-gu-control\App\Inc\gui.h</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>C:\Users\Vm\Desktop\PanGu\pan-gu-control\App\Src\gui.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>C:\Users\Vm\Desktop\PanGu\pan-gu-control\App\Src\menu.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>C:\Users\Vm\Desktop\PanGu\pan-gu-control\Core\Src\main.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>C:\Users\Vm\Desktop\pan-gu-control\02 Software\App\Inc\api.h</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>C:\Users\Vm\Desktop\pan-gu-control\02 Software\App\Inc\gui.h</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>C:\Users\Vm\Desktop\pan-gu-control\02 Software\App\Inc\menu.h</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>C:\Users\Vm\Desktop\pan-gu-control\02 Software\App\Src\gui.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>C:\Users\Vm\Desktop\pan-gu-control\02 Software\App\Src\menu.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>C:\Users\Vm\Desktop\pan-gu-control\02 Software\Core\Inc\nrf24l01.h</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>C:\Users\Vm\Desktop\pan-gu-control\02 Software\Core\Src\nrf24l01.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>C:\Users\Vm\Desktop\pan-gu-control\App\Src\menu.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>C:\Users\Vm\Desktop\pan-gu-control\Core\Src\main.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>E:\03 Git\02 Software\App\Src\menu.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>E:\03 Git\02 Software\Core\Src\nrf24l01.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>E:\03 Git\App\Inc\gui.h</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>E:\03 Git\App\Inc\menu.h</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>E:\03 Git\App\Src\gui.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>E:\03 Git\App\Src\menu.c</path>
+        <encoding>System</encoding>
+    </override>
+</userOverrides>
